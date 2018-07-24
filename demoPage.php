@@ -11,6 +11,7 @@
 <body>
     <?php
         echo "Welcome TechInfoBoost Viewer!!</br>";
+        echo "making changes";
         phpinfo();
     ?>
 </body>
